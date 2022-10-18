@@ -74,6 +74,8 @@ for (count = 0; count <= 5; count++) {
   alert(count)
 }
 */
-
+/*
 var d = new Date()
 alert(d)
+*/
+
