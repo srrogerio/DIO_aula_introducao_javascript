@@ -41,9 +41,39 @@ console.log(fruta.nome)
 */
 
 // Lista de dicionário
+/*
 var frutas = [
   { nome: 'maçã', cor: 'vermelha' },
   { nome: 'uva', cor: 'roxa' }
 ]
 console.log(frutas)
 console.log(frutas[1].nome)
+*/
+
+/*
+var idade = prompt('Qual a usa idade?: ')
+//var idade = 18
+if (idade >= 18) {
+  alert('maior de idade')
+} else {
+  alert('menor de idade')
+}
+*/
+
+/*
+var count = 0
+while (count <= 5) {
+  console.log(count)
+  count++
+}
+*/
+
+/*
+var count
+for (count = 0; count <= 5; count++) {
+  alert(count)
+}
+*/
+
+var d = new Date()
+alert(d)
